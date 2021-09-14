@@ -1,0 +1,35 @@
+                         html {
+                             background-color: mistyrose;
+                             background-image: url(images/c218dfe92efcaef763f49ddba49f0b54.gif );
+                         }
+                         /* Add a black background color to the top navigation */
+                         
+                         .topnav {
+                             background-color: #333;
+                             overflow: hidden;
+                         }
+                         /* Style the links inside the navigation bar */
+                         
+                         .topnav a {
+                             float: right;
+                             color: black;
+                             text-align: center;
+                             padding: 14px 16px;
+                             text-decoration: none;
+                             font-size: 17px;
+                         }
+                         /* Change the color of links on hover */
+                         
+                         .topnav a:hover {
+                             background-color: coral;
+                             color: black;
+                         }
+                         /* Add a color to the active/current link */
+                         
+                         .topnav a.active {
+                             background-color: coral;
+                         }
+                         
+                         img {
+                             align-content: center;
+                         }
